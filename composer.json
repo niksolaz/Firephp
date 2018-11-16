@@ -1,0 +1,7 @@
+{
+    "require": {
+        "kreait/firebase-php": "^4.18",
+        "mindscreen/yarnlock": "^1.0",
+        "firebase/php-jwt": "^5.0"
+    }
+}
